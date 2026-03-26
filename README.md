@@ -28,6 +28,8 @@ mvn clean package
 
 Run without selecting a server :
 ```
+mvn spring-boot:run
+OR
 java -jar target/Practive-App-0.0.1-SNAPSHOT.jar
 ```
 
